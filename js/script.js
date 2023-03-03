@@ -3,7 +3,7 @@
 
 // Task
 
-const askUser = prompt("What do u want to do? Write 'add','sub', 'mult', 'div':", );
+const askUser = prompt("What do u want to do? Write 'add','sub', 'mult', 'div':" );
 
 
 if(askUser === 'add') {
